@@ -1,0 +1,2 @@
+[start]
+cmd = "python sneaker_monitor.py"
