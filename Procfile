@@ -1,1 +1,1 @@
-python sneaker_monitor.py
+web: python sneaker_monitor.py
